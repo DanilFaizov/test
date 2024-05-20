@@ -8,3 +8,7 @@ h1{
     font-size: 48px;
     color: blueviolet;
 }
+.text{
+    color: blue;
+    font-style: italic;
+}
