@@ -4,3 +4,7 @@ body{
 p{
     color: brown;
 }
+h1{
+    font-size: 48px;
+    color: blueviolet;
+}
